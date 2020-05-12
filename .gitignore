@@ -1,0 +1,13 @@
+# Generated files
+bin/
+gen/
+out/
+.gradle/
+.idea/
+target/
+build/
+.settings
+.project
+history/
+null/
+.DS_Store
